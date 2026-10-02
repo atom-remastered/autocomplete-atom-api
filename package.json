@@ -16,8 +16,8 @@
     }
   },
   "devDependencies": {
-    "coffeelint": "^1.15.7",
+    "coffeelint": "^2.1.0",
     "request": "^2.53.0",
-    "temp": "^0.8.1"
+    "temp": "^0.9.4"
   }
 }
